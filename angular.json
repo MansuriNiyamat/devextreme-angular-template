@@ -151,5 +151,8 @@
       }
     }
   },
-  "defaultProject": "DevExtreme-App"
+  "defaultProject": "DevExtreme-App",
+  "cli": {
+    "analytics": "9ecaf6ef-3468-46a5-8954-5a85ba3a507c"
+  }
 }
